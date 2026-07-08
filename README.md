@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="<img width="1402" height="1122" alt="WhatsApp Image 2026-07-07 at 8 21 28 PM" src="https://github.com/user-attachments/assets/22e21acc-a374-474a-b430-dfbe32730a1a" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:3B82F6&height=200&section=header&text=Hi%20There!%20I'm%20Rajesh%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-<img src="<img width="1402" height="1122" alt="WhatsApp Image 2026-07-07 at 8 21 28 PM" src="https://github.com/user-attachments/assets/22e21acc-a374-474a-b430-dfbe32730a1a" />
-" />
+<img src="https://komarev.com/ghpvc/?username=24x55a0514&label=Profile%20Views&color=9333EA&style=flat-square" alt="profile views" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Student+%7C+AI+%26+NLP+Enthusiast;Building+with+Python+%26+RAG;Turning+Ideas+Into+Intelligent+Systems" alt="Typing SVG" />
